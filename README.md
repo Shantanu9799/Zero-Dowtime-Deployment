@@ -32,7 +32,7 @@ Amazon ECS (Elastic Container Service) is a fully managed container orchestratio
 
 ### 2.5 Final Output
 To verify the deployment, open the following URL in your browser:
-[http://<LoadBalancerDNS>:<port>/<war-file-name>](http://<LoadBalancerDNS>:<port>/<war-file-name>)
+
 Example:  
 [http://test-lb-108914588.ap-south-1.elb.amazonaws.com:9172/test/](http://test-lb-108914588.ap-south-1.elb.amazonaws.com:9172/test/)
 
