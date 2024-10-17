@@ -81,6 +81,8 @@ Example:
 ### 4.5 Final Output
 To verify the deployment, open the following URL in your browser:
 
+Example:  
+[http://test-lb-108914588.ap-south-1.elb.amazonaws.com:9172/test/](http://test-lb-108914588.ap-south-1.elb.amazonaws.com:9172/test/)
 
 
 ---
